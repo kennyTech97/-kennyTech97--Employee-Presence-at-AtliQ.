@@ -77,6 +77,6 @@ Sick Leave (SL):1.10%
 #### Conclusion:
 The analysis of employee presence at AtliQ for the months of April, May, and June 2022 reveals a generally high presence rate with some fluctuations in WFH and sick leave. By addressing the identified trends and implementing the recommended actions, AtliQ can further enhance employee attendance and overall productivity.
 
-<img width="535" alt="HR ANALYSIS Screenshot 2" src="https://github.com/user-attachments/assets/69d54064-577a-4e5f-acde-33a3aafb9d90">
+!<img width="535" alt="HR ANALYSIS Screenshot 2" src="https://github.com/user-attachments/assets/69d54064-577a-4e5f-acde-33a3aafb9d90">
 
 
